@@ -1,0 +1,6 @@
+{
+  "name": "نظام إتقان - نقاط وحلقات تحفيظ القرآن",
+  "description": "نظام ذكي وشامل لإدارة حلقات تحفيظ القرآن الكريم وتجميع وخصم النقاط ومتابعة سلوك وإنجازات الطلاب بصلاحيات متقدمة للمعلمين والإدارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
